@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -Wall -m32   -D_LINUX_OS_ -D_HAVE_STDINT_ -D_XOPEN_SOURCE=600 -g   -shared -Wl,-soname,temp_mon.so -o temp_mon.so CMakeFiles/temp_mon.dir/fsw/src/temp_mon_app.c.o 

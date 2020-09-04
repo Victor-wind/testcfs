@@ -1,0 +1,3 @@
+PROJECT_NAME           = cfs101-cfs101
+PROJECT_BRIEF          = "cfs101 Core Flight Software (cFS) based project built using \"cfs101\" configuration"
+@INCLUDE               = $(CMAKE_SOURCE_DIR)/doc/Doxyfile

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libosal.a  CMakeFiles/osal.dir/src/os/posix/ostimer.c.o CMakeFiles/osal.dir/src/os/posix/osfileapi.c.o CMakeFiles/osal.dir/src/os/posix/osloader.c.o CMakeFiles/osal.dir/src/os/posix/osapi.c.o CMakeFiles/osal.dir/src/os/posix/osfilesys.c.o CMakeFiles/osal.dir/src/os/posix/osnetwork.c.o
+/usr/bin/ranlib libosal.a

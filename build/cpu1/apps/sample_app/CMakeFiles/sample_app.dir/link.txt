@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -Wall -m32   -D_LINUX_OS_ -D_HAVE_STDINT_ -D_XOPEN_SOURCE=600 -g   -shared -Wl,-soname,sample_app.so -o sample_app.so CMakeFiles/sample_app.dir/fsw/src/sample_app.c.o 

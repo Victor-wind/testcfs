@@ -1,0 +1,14 @@
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/cfe_core_default_cpu1/CMakeFiles/cfe_core_default_cpu1.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/ci/CMakeFiles/ci.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/cpu1/CMakeFiles/core-cpu1.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/io_lib/CMakeFiles/io_lib.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/osal/CMakeFiles/osal.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/psp/pc-linux/CMakeFiles/psp-pc-linux.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/sample_app/CMakeFiles/sample_app.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/sample_lib/CMakeFiles/sample_lib.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/sch/CMakeFiles/sch.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/sch/CMakeFiles/sch_tables.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/temp_io/CMakeFiles/temp_io.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/temp_mon/CMakeFiles/temp_mon.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/to/CMakeFiles/to.dir
+/home/dev/Training_workspace/CFS-101.final/build/cpu1/apps/to/CMakeFiles/to_tables.dir

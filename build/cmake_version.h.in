@@ -1,0 +1,18 @@
+/* Auto-generated version information file */
+#define MISSION_CONFIG      "cfs101"
+#define MISSION_NAME        "cfs101"
+#define CFS101_VERSION "@MISSION_VERSION@"
+#define OSAL_VERSION "@osal_VERSION@"
+#define SAMPLE_APP_VERSION "@sample_app_VERSION@"
+#define SAMPLE_LIB_VERSION "@sample_lib_VERSION@"
+#define IO_LIB_VERSION "@io_lib_VERSION@"
+#define CI_VERSION "@ci_VERSION@"
+#define TO_VERSION "@to_VERSION@"
+#define SCH_VERSION "@sch_VERSION@"
+#define TEMP_IO_VERSION "@temp_io_VERSION@"
+#define TEMP_MON_VERSION "@temp_mon_VERSION@"
+#define CFE_VERSION "@cfe-core_VERSION@"
+
+#define MISSION_VERSION CFS101_VERSION
+
+ /* end */

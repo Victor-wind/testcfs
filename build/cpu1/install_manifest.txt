@@ -1,0 +1,13 @@
+/exe/cpu1/cf/cfe_es_startup.scr
+/exe/cpu1/core-cpu1
+/exe/cpu1/cf/sample_app.so
+/exe/cpu1/cf/sample_lib.so
+/exe/cpu1/cf/io_lib.so
+/exe/cpu1/cf/ci.so
+/exe/cpu1/cf/to.so
+/exe/cpu1/cf/to_config.tbl
+/exe/cpu1/cf/sch.so
+/exe/cpu1/cf/sch_def_msgtbl.tbl
+/exe/cpu1/cf/sch_def_schtbl.tbl
+/exe/cpu1/cf/temp_io.so
+/exe/cpu1/cf/temp_mon.so

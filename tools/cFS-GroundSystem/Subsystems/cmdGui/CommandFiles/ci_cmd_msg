@@ -1,0 +1,17 @@
+(lp0
+(lp1
+S'CI_NOOP_CC'
+p2
+aS'CI_RESET_CC'
+p3
+aS'CI_ENABLE_TO_CC'
+p4
+aa(lp5
+S'0'
+p6
+aS'1'
+p7
+aS'2'
+p8
+aag1
+a.

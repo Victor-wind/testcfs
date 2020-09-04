@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -Wall -m32   -D_LINUX_OS_ -D_HAVE_STDINT_ -D_XOPEN_SOURCE=600 -g   -shared -Wl,-soname,ci.so -o ci.so CMakeFiles/ci.dir/fsw/src/ci_utils.c.o CMakeFiles/ci.dir/fsw/src/ci_custom.c.o CMakeFiles/ci.dir/fsw/src/ci_app.c.o 

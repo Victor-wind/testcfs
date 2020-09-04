@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -Wall -m32   -D_LINUX_OS_ -D_HAVE_STDINT_ -D_XOPEN_SOURCE=600 -g   -shared -Wl,-soname,temp_io.so -o temp_io.so CMakeFiles/temp_io.dir/fsw/src/temp_io_app.c.o 

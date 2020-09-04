@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -Wall -m32   -D_LINUX_OS_ -D_HAVE_STDINT_ -D_XOPEN_SOURCE=600 -g   -shared -Wl,-soname,sample_lib.so -o sample_lib.so CMakeFiles/sample_lib.dir/fsw/src/sample_lib.c.o 
